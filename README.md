@@ -1,13 +1,15 @@
 # K3 — Ngày 1: Khám Phá LLM API (9h00–13h00)
 
-Xem hướng dẫn step-by-step ở website: https://codelabs.vlearn.dev/codelab/day1-lab-llm-api-foundation 
+Xem hướng dẫn step-by-step ở website: https://codelabs.vlearn.dev/codelab/day1-lab-llm-api-foundation
 Đăng nhập bằng tài khoản vlearn đã được kích hoạt:
+
 - Tên tài khoản: mail vinuni
 - Mật khẩu: mã số sinh viên
 
 ## Mục Tiêu
 
 Sau buổi lab này, bạn sẽ:
+
 - Gọi được OpenAI Chat Completions API và hiểu các tham số sinh text quan trọng (temperature, top_p, max_tokens)
 - So sánh GPT-4o và GPT-4o-mini về chất lượng, độ trễ và chi phí
 - Dùng system prompt để định hình persona của model
@@ -23,6 +25,7 @@ mỗi block có checkpoint theo giờ để bạn tự biết mình đang đúng
 ## Cài Đặt
 
 ### Yêu cầu
+
 - Python 3.10+
 - API key để chạy thủ công (toàn bộ kiểm thử dùng mock, không cần key) — một trong hai:
   - **OpenAI API key**, hoặc
@@ -32,6 +35,7 @@ mỗi block có checkpoint theo giờ để bạn tự biết mình đang đúng
 ### Tạo môi trường ảo & cài thư viện
 
 **macOS / Linux:**
+
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
@@ -39,6 +43,7 @@ pip install -r requirements.txt
 ```
 
 **Windows (PowerShell):**
+
 ```powershell
 python -m venv .venv
 .venv\Scripts\Activate.ps1
@@ -67,15 +72,15 @@ commit hoặc chia sẻ API key**.
 
 ## Lịch Trình & Checkpoint
 
-| Giờ | Hoạt động | Checkpoint |
-|-----|-----------|------------|
-| 9h00–10h00 | Mở đầu + setup môi trường | **CP0:** `pytest tests/ -v` chạy được (tests fail là đúng — bạn chưa code) |
-| 10h00–10h40 | **Block 1** — API cơ bản: Task 1.1, 1.2, 1.3 | **CP1 (10h40):** `pytest tests/test_part1.py -v` |
-| 10h40–11h20 | **Block 2** — System prompt & token: Task 2.1, 2.2, 2.3 | **CP2 (11h20):** `pytest tests/test_part2.py -v` |
-| 11h20–11h30 | ☕ Giải lao | — |
-| 11h30–12h10 | **Block 3** — Streaming & retry: Task 3.1, 3.2 | **CP3 (12h10):** `pytest tests/test_part3.py -v` |
-| 12h10–12h50 | **Block 4** — Mini-project: `run_assistant` | **CP4 (12h50):** `pytest tests/test_part4.py -v` |
-| 12h50–13h00 | Wrap-up: hoàn thiện `exercises.md`, chấm điểm, nộp bài | `python grade.py` |
+| Giờ         | Hoạt động                                                   | Checkpoint                                                                                   |
+| ------------ | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| 9h00–10h00  | Mở đầu + setup môi trường                                | **CP0:** `pytest tests/ -v` chạy được (tests fail là đúng — bạn chưa code) |
+| 10h00–10h40 | **Block 1** — API cơ bản: Task 1.1, 1.2, 1.3          | **CP1 (10h40):** `pytest tests/test_part1.py -v`                                     |
+| 10h40–11h20 | **Block 2** — System prompt & token: Task 2.1, 2.2, 2.3 | **CP2 (11h20):** `pytest tests/test_part2.py -v`                                     |
+| 11h20–11h30 | ☕ Giải lao                                                   | —                                                                                           |
+| 11h30–12h10 | **Block 3** — Streaming & retry: Task 3.1, 3.2          | **CP3 (12h10):** `pytest tests/test_part3.py -v`                                     |
+| 12h10–12h50 | **Block 4** — Mini-project: `run_assistant`           | **CP4 (12h50):** `pytest tests/test_part4.py -v`                                     |
+| 12h50–13h00 | Wrap-up: hoàn thiện`exercises.md`, chấm điểm, nộp bài | `python grade.py`                                                                          |
 
 Chi tiết từng bước của mỗi block: xem [LAB_GUIDE.md](LAB_GUIDE.md).
 
@@ -120,15 +125,15 @@ Tất cả kiểm thử dùng `unittest.mock` — **không cần API key thật*
 python grade.py
 ```
 
-| Tiêu chí | Cách chấm | Điểm |
-|----------|-----------|------|
-| CP1 — Part 1: API cơ bản | `tests/test_part1.py` | 15 |
-| CP2 — Part 2: System prompt & token | `tests/test_part2.py` | 15 |
-| CP3 — Part 3: Streaming & retry | `tests/test_part3.py` | 15 |
-| CP4 — Part 4: Mini-project cơ bản | `tests/test_part4.py -k Basic` | 15 |
-| Demo — kịch bản hội thoại tự động | `tests/test_part4.py -k Scenario` | 15 |
-| `exercises.md` — 9 câu phản ánh | Đếm số câu đã trả lời | 25 |
-| **Tổng** | | **100** |
+| Tiêu chí                                | Cách chấm                         | Điểm        |
+| ----------------------------------------- | ----------------------------------- | ------------- |
+| CP1 — Part 1: API cơ bản               | `tests/test_part1.py`             | 15            |
+| CP2 — Part 2: System prompt & token      | `tests/test_part2.py`             | 15            |
+| CP3 — Part 3: Streaming & retry          | `tests/test_part3.py`             | 15            |
+| CP4 — Part 4: Mini-project cơ bản      | `tests/test_part4.py -k Basic`    | 15            |
+| Demo — kịch bản hội thoại tự động | `tests/test_part4.py -k Scenario` | 15            |
+| `exercises.md` — 9 câu phản ánh     | Đếm số câu đã trả lời       | 25            |
+| **Tổng**                           |                                     | **100** |
 
 Điểm mỗi nhóm tỷ lệ với số test pass, nên **làm được đến đâu có điểm đến đó**.
 Điểm exercises là điểm hoàn thành; chất lượng nội dung giảng viên có thể
@@ -154,6 +159,7 @@ zip -r solution.zip solution/
 ```
 
 **Cấu trúc folder solution trước khi zip:**
+
 ```
 solution/
 ├── solution.py      # template.py đã hoàn thiện
@@ -164,8 +170,8 @@ solution/
 
 ## Danh Sách Kiểm Tra Nộp Bài
 
-- [ ] `pytest tests/ -v` — các checkpoint đều pass
-- [ ] `python grade.py` — xem điểm, mục tiêu ≥ 75/100
-- [ ] `solution/exercises.md` — cả 9 câu đã trả lời
-- [ ] `solution/solution.py` — bản code cuối cùng
-- [ ] Đã zip và đổi tên đúng quy định trước khi upload LMS
+- [X] `pytest tests/ -v` — các checkpoint đều pass
+- [X] `python grade.py` — xem điểm, mục tiêu ≥ 75/100
+- [X] `solution/exercises.md` — cả 9 câu đã trả lời
+- [X] `solution/solution.py` — bản code cuối cùng
+- [X] Đã zip và đổi tên đúng quy định trước khi upload LMS

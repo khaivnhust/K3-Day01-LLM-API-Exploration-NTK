@@ -24,7 +24,7 @@ Gọi `call_openai` với temperature 0.0, 0.5, 1.0 và 1.5 dùng prompt
 
 **Bạn sẽ đặt temperature bao nhiêu cho chatbot hỗ trợ khách hàng, và tại sao?**
 
-> Khoảng 0.0–0.3. Chatbot hỗ trợ khách hàng cần trả lời nhất quán, đúng chính sách/quy trình công ty, tránh "bịa" thông tin hay đổi giọng điệu thất thường giữa các lượt hỏi giống nhau — nhiệt độ thấp giúp output ổn định và dễ kiểm soát chất lượng hơn là sáng tạo.
+> Khoảng 0.0–0.3. Chatbot hỗ trợ khách hàng cần trả lời nhất quán, đúng chính sách/quy trình công ty, tránh "bịa" thông tin hay đổi giọng điệu thất thường giữa các lượt hỏi giống nhau  nhiệt độ thấp giúp output ổn định và dễ kiểm soát chất lượng hơn là sáng tạo.
 
 ### Câu 1.3 — Đánh đổi chi phí
 
@@ -38,7 +38,7 @@ trường hợp GPT-4o xứng đáng với chi phí và một trường hợp n�
 > Chi phí GPT-4o = 10.500 × 0.010 = **105 USD/ngày**.
 > Chi phí GPT-4o-mini = 10.500 × 0.0006 = **6.3 USD/ngày**.
 > → GPT-4o đắt hơn mini khoảng **16.7 lần** (= 0.010/0.0006) cho cùng workload.
-> GPT-4o đáng dùng khi task cần suy luận phức tạp, độ chính xác cao (phân tích hợp đồng, code review, tư vấn y tế/pháp lý). Mini phù hợp cho các tác vụ đơn giản, khối lượng lớn như trả lời FAQ, phân loại intent, tóm tắt ngắn — nơi chất lượng "đủ tốt" đã đáp ứng được nhu cầu.
+> GPT-4o đáng dùng khi task cần suy luận phức tạp, độ chính xác cao (phân tích hợp đồng, code review, tư vấn y tế/pháp lý). Mini phù hợp cho các tác vụ đơn giản, khối lượng lớn như trả lời FAQ, phân loại intent, tóm tắt ngắn  nơi chất lượng "đủ tốt" đã đáp ứng được nhu cầu.
 
 ---
 
@@ -96,7 +96,7 @@ với delay cố định giống nhau?**
 thích 1–2 lựa chọn từ ngữ quan trọng trong prompt (ví dụ: vì sao yêu cầu
 "trả lời ngắn gọn", vì sao chỉ định ngôn ngữ...):**
 
-> System prompt: *"Bạn là trợ giảng thân thiện của khóa học AI, trả lời ngắn gọn (tối đa 3-4 câu) bằng tiếng Việt, chỉ giải thích sâu hơn khi người dùng yêu cầu."*
+> System prompt: *"Bạn là trợ giảng thân thiện của khóa học AI, trả lời ngắn gọn (tối đa 3-4 câu) bằng tiếng Việt, chỉ giải thích sâu hơn khi người dùng yêu cầu."0*
 > Lý do chọn "trả lời ngắn gọn": trợ lý CLI hiển thị qua terminal, câu trả lời dài dòng vừa tốn token/chi phí vừa làm loãng thông tin quan trọng, ép model đi thẳng vào trọng tâm giúp trải nghiệm dùng nhanh và rẻ hơn. Lý do chỉ định "bằng tiếng Việt": tránh model tự chuyển sang tiếng Anh giữa chừng (hay gặp với model đa ngôn ngữ khi câu hỏi có từ mượn/thuật ngữ tiếng Anh), đảm bảo tính nhất quán cho người dùng mục tiêu là học viên Việt Nam.
 
 ### Câu 4.2 — Hạn chế & cải thiện
