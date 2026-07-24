@@ -1,0 +1,146 @@
+=== Câu 1.1: temperature 0.0 / 0.5 / 1.0 / 1.5 ===
+--- temp=0.0 (latency=11.04s) ---
+Một sự thật thú vị về Việt Nam là món **Phở**, một trong những món ăn nổi tiếng và được yêu thích nhất của đất nước.
+
+Điều thú vị là, mặc dù Phở là một món súp đầy đủ và bổ dưỡng, nó thường được người Việt Nam thưởng thức vào **bữa sáng**. Nó được coi là một cách tuyệt vời để bắt đầu ngày mới, cung cấp năng lượng và hương vị đậm đà. Nước dùng của Phở thường được ninh hàng giờ với xương và các loại gia vị đặc trưng, tạo nên hương vị khó quên.
+
+--- temp=0.5 (latency=7.08s) ---
+Chắc chắn rồi!
+
+Một sự thật thú vị về Việt Nam là món **Phở** nổi tiếng thế giới của họ. Mặc dù ở nhiều nơi trên thế giới, phở thường được ăn vào bữa trưa hoặc tối, nhưng ở Việt Nam, **phở truyền thống thường được thưởng thức vào bữa sáng**!
+
+Thậm chí, tên gọi "phở" được cho là có nguồn gốc từ từ "feu" (lửa) trong tiếng Pháp, liên quan đến món "pot-au-feu" (thịt bò hầm kiểu Pháp), cho thấy sự giao thoa văn hóa ẩm thực độc đáo.
+
+--- temp=1.0 (latency=8.61s) ---
+Chắc chắn rồi! Đây là một sự thật thú vị về Việt Nam liên quan đến chữ viết của họ:
+
+**Mặc dù là một quốc gia Đông Nam Á, nhưng tiếng Việt lại là một trong số ít ngôn ngữ trong khu vực sử dụng bảng chữ cái Latin (giống như tiếng Anh, tiếng Pháp) thay vì các hệ thống chữ tượng hình hoặc chữ cái khác có nguồn gốc từ Ấn Độ (như tiếng Thái, tiếng Khmer, tiếng Lào).**
+
+Điều này không phải lúc nào cũng như vậy! Ban đầu, tiếng Việt sử dụng một hệ thống chữ viết phức tạp dựa trên chữ Hán (gọi là **Chữ Nôm** và **Chữ Hán** cổ điển).
+
+Vào thế kỷ 17, các nhà truyền giáo Dòng Tên người Bồ Đào Nha và Pháp, đặc biệt là **Alexandre de Rhodes**, đã đóng vai trò quan trọng trong việc phát triển hệ thống chữ cái Latin hóa này, được gọi là **"Chữ Quốc ngữ"** (National Script). Mục đích ban đầu của họ là để dễ dàng truyền bá đạo Thiên Chúa.
+
+Sau đó, Chữ Quốc ngữ đã trở thành hệ thống chữ viết chính thức của Việt Nam vào đầu thế kỷ 20, thay thế phần lớn các hệ thống chữ viết cũ. Việc đơn giản hóa này đã góp phần đáng kể vào việc nâng cao tỷ lệ biết chữ của người dân Việt Nam.
+
+--- temp=1.5 (latency=8.41s) ---
+Một sự thật thú vị về Việt Nam là **món Bánh Mì nổi tiếng toàn cầu của họ không chỉ là một món ăn đường phố tuyệt vời, mà còn là biểu tượng sống động của sự pha trộn văn hóa và lịch sử**.
+
+Mặc dù Bánh Mì là một món ăn rất Việt Nam, gốc gác của nó lại có liên quan mật thiết đến ảnh hưởng của Pháp. Người Pháp đã mang bánh mì baguette đến Việt Nam trong thời kỳ thuộc địa. Nhưng người Việt Nam đã biến tấu nó thành một kiệt tác ẩm thực độc đáo:
+
+*   Họ đã tạo ra một loại bánh mì baguette nhẹ hơn, giòn hơn với vỏ mỏng đặc trưng.
+*   Và thay vì chỉ dùng bơ hoặc pho mát như kiểu Pháp, người Việt Nam đã nhồi vào đó những nguyên liệu đặc trưng Việt Nam như thịt nguội, pa-tê (cũng là một ảnh hưởng của Pháp nhưng được biến tấu), rau thơm tươi, đồ chua (dưa góp) và ớt.
+
+Bánh Mì không chỉ là một món ăn ngon miệng mà còn là một minh chứng xuất sắc về cách Việt Nam tiếp nhận một thứ gì đó từ bên ngoài và biến nó thành của riêng mình một cách sáng tạo và đầy bản sắc!
+
+=== Câu 2.1: persona comparison ===
+--- Giáo viên tiểu học ---
+Chào con! Con hãy tưởng tượng thế này nhé:
+
+Blockchain giống như một cuốn **sổ ghi chép siêu đặc biệt và rất an toàn** mà tất cả mọi người trong một nhóm cùng dùng chung.
+
+Để dễ hiểu hơn, mình cùng tưởng tượng một câu chuyện nhé:
+
+---
+
+**Câu chuyện về Cuốn Sổ Thần Kỳ của Lớp Học**
+
+Trong lớp học của con, cô giáo muốn ghi lại tất cả những lần các bạn đổi đồ chơi cho nhau, hoặc bạn nào giúp đỡ bạn nào, để cuối tháng khen thưởng công bằng.
+
+1.  **Mỗi trang là một "Khối" (Block):**
+    *   Thay vì một cuốn sổ bình thường, cô giáo dùng một cuốn sổ mà **mỗi trang là một "khối"**.
+    *   Khi có một sự việc xảy ra (ví dụ: "Bạn An cho bạn Bình mượn bút chì"), cô giáo sẽ ghi vào trang đầu tiên.
+    *   Khi trang đó đầy chữ rồi, cô sẽ đóng trang đó lại.
+
+2.  **Các trang được "dán" lại với nhau thành một "Chuỗi" (Chain):**
+    *   Điều đặc biệt là, khi một trang đầy và được đóng lại, nó sẽ được **"dán" liền lại với trang tiếp theo** bằng một loại keo siêu dính mà không ai có thể gỡ ra hay thay đổi được nữa.
+    *   Cứ thế, trang này nối trang kia, tạo thành một chuỗi dài các trang đã ghi chép.
+    *   Đây chính là lý do nó có tên là **Block (khối) - Chain (chuỗi)**!
+
+3.  **Mỗi bạn đều có một bản sao cuốn sổ (Phân tán):**
+    *   Không chỉ có một cuốn sổ của cô giáo đâu! Mà điều siêu đặc biệt là: **Mỗi bạn trong lớp đều có một cuốn sổ y hệt như của cô giáo!**
+    *   Khi cô ghi "An cho Bình mượn bút chì", thì tất cả các cuốn sổ của các bạn cũng tự động được ghi y chang như vậy.
+    *   Tại sao lại thế? Để không ai có thể gian lận được!
+
+4.  **Không ai có thể gian lận hay tẩy xóa (Bất biến và an toàn):**
+    *   Nếu có một bạn nào đó muốn "tẩy xóa" hay "sửa" lại một điều gì đó trong cuốn sổ của mình (ví dụ: sửa thành "Bình cho An mượn bút chì" để được khen), thì sao nhỉ?
+    *   Vì tất cả các cuốn sổ khác đều ghi giống nhau, nên ngay lập tức mọi người sẽ thấy cuốn sổ của bạn đó khác với những cuốn sổ còn lại.
+    *   Và vì các trang đã được "dán" siêu dính lại rồi, nên việc thay đổi một trang cũ là cực kỳ khó, gần như không thể, mà không bị mọi người phát hiện.
+
+---
+
+**Tóm lại:**
+
+**Blockchain là một cách để ghi lại thông tin (như ai cho ai cái gì, ai làm gì) một cách siêu an toàn, mà tất cả mọi người trong một nhóm đều có một bản sao giống hệt nhau, và một khi đã ghi thì không thể thay đổi hay tẩy xóa được nữa.**
+
+Nó giống như một cuốn nhật ký khổng lồ, công khai và không thể bị sửa đổi, mà cả thế giới (hoặc một nhóm người) cùng nhau viết và cùng nhau giữ.
+
+Con thấy thú vị không nào?
+
+--- Chuyên gia tài chính ---
+Chào bạn, với tư cách là một chuyên gia tài chính, tôi sẽ giải thích blockchain một cách chuyên sâu, tập trung vào các thuật ngữ kỹ thuật và cơ chế vận hành cốt lõi.
+
+---
+
+## Blockchain: Một Hệ Thống Sổ Cái Phân Tán Bất Biến
+
+Blockchain là một công nghệ sổ cái phân tán (Distributed Ledger Technology - DLT) cho phép ghi lại các giao dịch một cách an toàn, minh bạch và bất biến trên một mạng lưới máy tính ngang hàng (peer-to-peer network). Khái niệm cốt lõi của nó là tạo ra một chuỗi các "khối" (blocks) dữ liệu được liên kết mật mã với nhau, tạo thành một lịch sử giao dịch không thể thay đổi.
+
+### I. Các Thành Phần Cấu Trúc Cơ Bản
+
+1.  **Block (Khối):**
+    *   Mỗi block là một tập hợp các giao dịch (transactions) đã được xác thực.
+    *   Ngoài dữ liệu giao dịch, một block còn chứa:
+        *   **Timestamp:** Thời gian tạo khối.
+        *   **Hash của khối trước đó (Previous Block Hash):** Đây là yếu tố then chốt tạo nên "chuỗi" (chain). Hash này là một chuỗi ký tự duy nhất được tạo ra từ toàn bộ dữ liệu của khối trước đó.
+        *   **Merkle Root:** Một hàm băm đại diện cho tất cả các giao dịch trong khối. Merkle Root được tạo ra bằng cách liên tục băm cặp các hàm băm giao dịch cho đến khi chỉ còn một hàm băm duy nhất. Nó cho phép xác minh tính toàn vẹn của tất cả các giao dịch trong khối một cách hiệu quả.
+        *   **Nonce (Number Only Used Once):** Một số ngẫu nhiên được sử dụng bởi các thợ đào (miners) hoặc người xác thực (validators) để tìm ra một hàm băm khối hợp lệ (Block Hash) đáp ứng các điều kiện khó khăn của giao thức (ví dụ: bắt đầu bằng một số lượng nhất định các số 0).
+        *   **Block Hash:** Hàm băm duy nhất của chính khối hiện tại, được tạo ra từ tất cả các thành phần trên.
+
+2.  **Chain (Chuỗi):**
+    *   Các block được liên kết với nhau theo trình tự thời gian thông qua việc mỗi block chứa hàm băm của block ngay trước nó.
+    *   Sự liên kết mật mã này đảm bảo tính toàn vẹn: nếu bất kỳ dữ liệu nào trong một block bị thay đổi, hàm băm của block đó sẽ thay đổi, làm mất hiệu lực của hàm băm đó trong block tiếp theo, từ đó phá vỡ toàn bộ chuỗi. Điều này tạo nên tính bất biến (immutability).
+
+3.  **Mạng Lưới Ngang Hàng (Peer-to-Peer Network):**
+    *   Blockchain hoạt động trên một mạng lưới phi tập trung, nơi mỗi người tham gia (gọi là "node") đều giữ một bản sao đầy đủ của toàn bộ sổ cái blockchain.
+    *   Không có máy chủ trung tâm hay cơ quan quản lý duy nhất. Các node giao tiếp trực tiếp với nhau để xác thực và truyền bá các giao dịch và block mới.
+
+4.  **Mật Mã Học (Cryptography):**
+    *   **Hàm băm mật mã (Cryptographic Hash Functions - ví dụ: SHA-256):** Được sử dụng để tạo ra các hàm băm khối và Merkle Root. Chúng là các hàm một chiều, nghĩa là rất dễ dàng để tính toán hàm băm từ dữ liệu, nhưng gần như không thể đảo ngược để tìm ra dữ liệu gốc từ hàm băm.
+    *   **Mã hóa khóa công khai (Public-key Cryptography - Asymmetric Encryption):** Được sử dụng để tạo và xác thực chữ ký điện tử cho các giao dịch. Mỗi người dùng có một cặp khóa:
+        *   **Khóa riêng tư (Private Key):** Dùng để ký các giao dịch, chứng minh quyền sở hữu tài sản. Cần được giữ bí mật tuyệt đối.
+        *   **Khóa công khai (Public Key):** Dùng để tạo địa chỉ ví và cho phép người khác xác minh chữ ký điện tử của bạn.
+
+### II. Cơ Chế Vận Hành (Luồng Giao Dịch)
+
+1.  **Khởi tạo Giao dịch:** Một người dùng (A) muốn gửi tài sản (ví dụ: tiền mã hóa) cho một người dùng khác (B). A tạo một giao dịch bao gồm thông tin: người gửi, người nhận, số lượng, và ký giao dịch bằng khóa riêng tư của mình.
+2.  **Truyền bá Giao dịch:** Giao dịch đã ký được truyền bá (broadcast) đến mạng lưới blockchain.
+3.  **Xác minh Giao dịch:** Các node trong mạng lưới nhận được giao dịch và thực hiện xác minh:
+    *   Kiểm tra tính hợp lệ của chữ ký điện tử.
+    *   Kiểm tra xem người gửi có đủ số dư tài sản hay không.
+    *   Kiểm tra xem giao dịch có tuân thủ các quy tắc khác của giao thức hay không.
+4.  **Tập hợp vào Khối:** Các giao dịch hợp lệ được tập hợp vào một block bởi một "thợ đào" (trong PoW) hoặc "người xác thực" (trong PoS).
+5.  **Cơ chế Đồng thuận (Consensus Mechanism):** Đây là bước quan trọng nhất để các node trong mạng lưới đạt được sự đồng thuận về tính hợp lệ của block mới và thứ tự của các giao dịch.
+    *   **Proof of Work (PoW - Bằng chứng Công việc):**
+        *   Các thợ đào cạnh tranh để giải một bài toán mật mã học phức tạp (tìm một Nonce sao cho Block Hash của block mới đáp ứng một điều kiện nhất định, ví dụ: bắt đầu bằng một số lượng "0" nhất định).
+        *   Việc giải bài toán đòi hỏi sức mạnh tính toán đáng kể (hash rate) và tiêu tốn năng lượng.
+        *   Thợ đào đầu tiên tìm ra lời giải sẽ truyền bá block mới đến mạng lưới.
+        *   Các node khác xác minh lời giải và tính hợp lệ của block. Nếu hợp lệ, họ thêm block đó vào bản sao sổ cái của mình.
+        *   Thợ đào thành công sẽ nhận được phần thưởng (ví dụ: tiền mã hóa mới và phí giao dịch).
+    *   **Proof of Stake (PoS - Bằng chứng Cổ phần):**
+        *   Thay vì cạnh tranh bằng sức mạnh tính toán, các "người xác thực" (validators) được chọn ngẫu nhiên để tạo block mới dựa trên số lượng tài sản (cổ phần) mà họ đã khóa (stake) trong mạng lưới.
+        *   Cổ phần càng lớn, cơ hội được chọn càng cao.
+        *   Hệ thống này tiết kiệm năng lượng hơn PoW.
+        *   Người xác thực tạo block và nhận phí giao dịch làm phần thưởng. Nếu họ cố gắng gian lận, cổ phần của họ có thể bị cắt giảm (slashing).
+6.  **Thêm Khối vào Chuỗi:** Khi một block được xác thực và chấp nhận bởi đa số các node, nó sẽ được thêm vào cuối chuỗi blockchain trên tất cả các bản sao sổ cái của các node. Lúc này, giao dịch được coi là "hoàn tất" và bất biến.
+
+### III. Các Đặc Tính Chính
+
+1.  **Phi Tập Trung (Decentralization):** Không có cơ quan trung ương kiểm soát. Quyền lực và dữ liệu được phân tán trên toàn mạng lưới, giúp chống lại sự kiểm duyệt và điểm lỗi duy nhất.
+2.  **Bất Biến (Immutability):** Một khi giao dịch được ghi vào block và block đó được thêm vào chuỗi, nó không thể bị thay đổi hoặc xóa bỏ. Điều này tạo ra một hồ sơ vĩnh viễn và đáng tin cậy.
+3.  **Minh Bạch (Transparency):** M
+
+=== Câu 2.2: tiktoken vs word/0.75 ===
+Số từ: 148
+tiktoken count: 159
+word/0.75 estimate: 197.3
+Chênh lệch %: -19.4%
